@@ -51,6 +51,7 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
+    align-items: center;
     height: 5vh;
     width: 100%;
     word-wrap: break-word;
@@ -119,6 +120,16 @@ body {
 
 /* Media Query */
 
+@media only screen and (max-width: 1023px) {
+    body {
+      font-size: 0.8em;
+}
+
+@media only screen and (max-width: 850px) {
+    body {
+      font-size: 0.7em;
+}
+
 @media only screen and (max-width: 700px) {
     body {
       font-size: 0.6em;
@@ -129,5 +140,14 @@ body {
         min-width: 50px;
       }
 
-  }
+    .cajero {
+        width: 80vw;
+        height: 70vh;
+    }
+
+    .screen {
+        width: 80%;
+    }
+
+}
   
