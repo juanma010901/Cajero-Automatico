@@ -3,7 +3,7 @@
 > Cajero automático elaborado con HTML, CSS y Java Script.
 
 Accede haciendo click en el siguiente icono:
-<a href="https://juanma010901.github.io/Cajero-Automatico/">
+<a href="https://juanma010901.github.io/Cajero-Automatico/" target="blank">
   <img src="/Resources/Logo.png" alt="Cajero Automático" width=40px height=40px>
 </a>
 
