@@ -13,10 +13,10 @@ Accede haciendo click en el siguiente icono:
 - Cualquiera de los perfiles tiene configurada la contraseña "1234" 🔒
 ![image](https://user-images.githubusercontent.com/119358374/216759144-b05f247d-c2c9-4e2a-bdb9-6abefb9051cb.png)
 
-- Los botones configurados con la opción de **_Back_** buscan volver a la última pantalla que puede ser útil para el usuario ↩️
+- La opción de **_Back_** buscan volver a la última pantalla que puede ser útil para el usuario ↩️
 ![image](https://user-images.githubusercontent.com/119358374/216759213-441e8f44-0170-404e-a6a2-dbc08f2eb12d.png)
 
-- Los botones de **_Salir_** están configurados para regresar a la página de inicio y eliminar los datos guardados en Local Storage 🔄
+- **_Salir_** están configurados para regresar a la página de inicio y eliminar los datos guardados en Local Storage 🔄
 ![image](https://user-images.githubusercontent.com/119358374/216759264-4b29553a-dc33-4d01-b3d9-c52f9a785863.png)
 
 
