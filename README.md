@@ -2,10 +2,13 @@
 
 > Cajero automático elaborado con HTML, CSS y Java Script.
 
+En el siguiente [enlace](https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FuZYTKk0UvKaa6Crl1O9Pyr%2FUntitled%3Fnode-id%3D0%253A1%26t%3D7WvkTYYfaxjwUoEa-1) puedes encontrar el diagrama de flujo que se elaboró para el desarrollo del proyecto en el cual se explican todas las pantallas usadas y los botones su respectiva lógica, además de algunas validaciones requeridas.
+
 Accede haciendo click en el siguiente icono:
 <a href="https://juanma010901.github.io/Cajero-Automatico/" target="_blank">
   <img src="/Resources/Logo.png" alt="Cajero Automático" width=40px height=40px>
 </a>
+
 
 ## Resultado 🚀
 ![image](https://user-images.githubusercontent.com/119358374/216758867-8511d974-fe9d-4383-b0cb-20bd7e7f1ba5.png)
