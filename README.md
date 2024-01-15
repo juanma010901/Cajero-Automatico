@@ -1,4 +1,5 @@
-![Visitantes](https://visitor-badge.glitch.me/badge?page_id=juanma010901.Cajero-Automatico&left_text=Visitantes)
+![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=juanma010901.Cajero-Automatico&left_text=Visitantes)
+
 
 # Cajero-Automatico 🏧
 
